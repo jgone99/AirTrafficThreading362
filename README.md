@@ -1,4 +1,4 @@
-# CSC 362 Project - Spring 2022
+# CSC 362 Project
 
 ## Project description
 
